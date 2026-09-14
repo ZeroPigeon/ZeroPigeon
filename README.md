@@ -12,6 +12,11 @@ Currently working on a personal project that I am hoping to publish to google pl
 ### Java:
 Desktop applications and some random programming projects
 
+### Web development
+Create small websites to improve areas where it might be necessary.
+For example, to train informational website allows train crew to better assist passengers with a lot of questions about how everything works.
+the ordering from website was a small personal test to see what I can do to make something functional and look nice at the same time as I usually focus on functionality over looks.
+
 ### C# with Raylib:
 Recently started learning Raylib for C# for fun. Creating small game projects to see what I can do with it.
 
